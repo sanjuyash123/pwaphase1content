@@ -1,0 +1,45 @@
+{
+	"profile":{
+		"img":"unnamed.png",
+		"name":"sanju",
+		"roll":"17a35a0506",
+		"institute":"pragati",
+		"place":"kakinada"
+	},
+	"career":{
+		"info":"to success in life  achieve u r goals.......!"
+	},
+	"education":[
+     {
+     	"s":"1",
+     	"degree":"btech",
+     	"institute":"abcd",
+     	"yop":"2020"
+     },
+     {
+     	"s":"2",
+     	"degree":"inter",
+     	"institute":"asd",
+     	"yop":"2016"
+     },  
+     {
+     	"s":"3",
+     	"degree":"ssc",
+     	"institute":"gthr",
+     	"yop":"2014"
+     }
+
+	],
+	"languages":[
+     
+     {
+       "lang":"english"
+     },
+     {
+     	"lang":"telugu"
+     },
+     {
+     	"lang":"hindi"
+     }
+	]
+}

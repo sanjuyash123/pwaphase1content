@@ -1,0 +1,22 @@
+body{
+	background: pink;
+}
+#maindiv{
+	background: aqua;
+	display:flex; 
+	justify-content: space-around;
+	margin: 6%;
+	border-radius: 5%;
+}
+.subdiv{
+	background: orange;
+	margin :3%;
+	border-radius: 5%;
+	text-align: center;
+	box-shadow:  4px 4px 4px 4px;
+	width: 150%; 
+}
+img{
+	margin: 3%;
+	border-radius: 4%;
+}
